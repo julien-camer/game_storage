@@ -1,6 +1,0 @@
-ID: SEABRIDGE - Location: (-465.6, 11.0, -544.7)
-ID: GARAGE - Location: (-204.9, 41.7, -316.1)
-ID: CRANE - Location: (267.4, 36.9, -825.9)
-ID: DAM1 - Location: (791.0, 12.2, -235.6)
-ID: DAM2 - Location: (793.0, 8.3, -310.3)
-ID: DAM3 - Location: (933.8, 13.3, -400.7)
